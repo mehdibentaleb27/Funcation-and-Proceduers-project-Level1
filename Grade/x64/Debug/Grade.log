@@ -1,0 +1,6 @@
+﻿  Grade.cpp
+C:\Users\HP I5\Desktop\Rev C++\Grade\Grade.cpp(15,11): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\HP I5\Desktop\Rev C++\Grade\Grade.cpp(17,11): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\HP I5\Desktop\Rev C++\Grade\Grade.cpp(19,11): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\HP I5\Desktop\Rev C++\Grade\Grade.cpp(21,11): warning C4129: 'E': unrecognized character escape sequence
+  Grade.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Grade\x64\Debug\Grade.exe

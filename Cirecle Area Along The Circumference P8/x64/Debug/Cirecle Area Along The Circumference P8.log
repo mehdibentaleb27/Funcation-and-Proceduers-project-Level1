@@ -1,0 +1,4 @@
+﻿  Cirecle Area Along The Circumference P8.cpp
+C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Cirecle Area Along The Circumference P8\Cirecle Area Along The Circumference P8.cpp(14,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Cirecle Area Along The Circumference P8\Cirecle Area Along The Circumference P8.cpp(24,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Cirecle Area Along The Circumference P8.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Cirecle Area Along The Circumference P8\x64\Debug\Cirecle Area Along The Circumference P8.exe

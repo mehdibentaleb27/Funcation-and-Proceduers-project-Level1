@@ -1,0 +1,4 @@
+﻿  Circle area a long circumference p21.cpp
+C:\Users\HP I5\Desktop\Rev C++\Circle area a long circumference p21\Circle area a long circumference p21.cpp(9,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP I5\Desktop\Rev C++\Circle area a long circumference p21\Circle area a long circumference p21.cpp(14,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Circle area a long circumference p21.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Circle area a long circumference p21\x64\Debug\Circle area a long circumference p21.exe

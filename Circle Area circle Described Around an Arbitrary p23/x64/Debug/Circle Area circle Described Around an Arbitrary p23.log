@@ -1,0 +1,5 @@
+﻿  Circle Area circle Described Around an Arbitrary p23.cpp
+C:\Users\HP I5\Desktop\Rev C++\Circle Area circle Described Around an Arbitrary p23\Circle Area circle Described Around an Arbitrary p23.cpp(8,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP I5\Desktop\Rev C++\Circle Area circle Described Around an Arbitrary p23\Circle Area circle Described Around an Arbitrary p23.cpp(17,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP I5\Desktop\Rev C++\Circle Area circle Described Around an Arbitrary p23\Circle Area circle Described Around an Arbitrary p23.cpp(7,27): warning C4101: 'T': unreferenced local variable
+  Circle Area circle Described Around an Arbitrary p23.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Circle Area circle Described Around an Arbitrary p23\x64\Debug\Circle Area circle Described Around an Arbitrary p23.exe

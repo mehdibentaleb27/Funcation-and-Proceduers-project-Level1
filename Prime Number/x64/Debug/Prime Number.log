@@ -1,0 +1,3 @@
+﻿  Prime Number.cpp
+C:\Users\HP I5\Desktop\Rev C++\Prime Number\Prime Number.cpp(11,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Prime Number.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Prime Number\x64\Debug\Prime Number.exe

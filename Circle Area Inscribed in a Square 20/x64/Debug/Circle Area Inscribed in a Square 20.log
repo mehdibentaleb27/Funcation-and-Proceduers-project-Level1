@@ -1,0 +1,4 @@
+﻿  Circle Area Inscribed in a Square 20.cpp
+C:\Users\HP I5\Desktop\Rev C++\Circle Area Inscribed in a Square 20\Circle Area Inscribed in a Square 20.cpp(9,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP I5\Desktop\Rev C++\Circle Area Inscribed in a Square 20\Circle Area Inscribed in a Square 20.cpp(14,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Circle Area Inscribed in a Square 20.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Circle Area Inscribed in a Square 20\x64\Debug\Circle Area Inscribed in a Square 20.exe

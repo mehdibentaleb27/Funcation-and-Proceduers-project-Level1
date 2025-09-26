@@ -1,0 +1,4 @@
+﻿  Circle Area Through Diameter p6.cpp
+C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Circle Area Through Diameter p6\Circle Area Through Diameter p6.cpp(14,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Circle Area Through Diameter p6\Circle Area Through Diameter p6.cpp(24,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Circle Area Through Diameter p6.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Circle Area Through Diameter p6\x64\Debug\Circle Area Through Diameter p6.exe

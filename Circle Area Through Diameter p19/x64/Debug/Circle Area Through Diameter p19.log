@@ -1,0 +1,4 @@
+﻿  Circle Area Through Diameter p19.cpp
+C:\Users\HP I5\Desktop\Rev C++\Circle Area Through Diameter p19\Circle Area Through Diameter p19.cpp(6,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP I5\Desktop\Rev C++\Circle Area Through Diameter p19\Circle Area Through Diameter p19.cpp(12,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Circle Area Through Diameter p19.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Circle Area Through Diameter p19\x64\Debug\Circle Area Through Diameter p19.exe

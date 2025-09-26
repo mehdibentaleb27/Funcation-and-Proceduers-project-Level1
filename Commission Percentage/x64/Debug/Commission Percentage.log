@@ -1,0 +1,5 @@
+﻿  Commission Percentage.cpp
+C:\Users\HP I5\Desktop\Rev C++\Commission Percentage\Commission Percentage.cpp(12,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP I5\Desktop\Rev C++\Commission Percentage\Commission Percentage.cpp(15,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP I5\Desktop\Rev C++\Commission Percentage\Commission Percentage.cpp(17,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Commission Percentage.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Commission Percentage\x64\Debug\Commission Percentage.exe

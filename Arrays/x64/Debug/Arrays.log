@@ -1,0 +1,5 @@
+﻿  Arrays.cpp
+C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Arrays\Arrays.cpp(20,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Arrays\Arrays.cpp(21,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Arrays\Arrays.cpp(22,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Arrays.vcxproj -> C:\Users\HP I5\Desktop\Rev C++\Funcation and Proceduers project\Arrays\x64\Debug\Arrays.exe
